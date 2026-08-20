@@ -29,10 +29,10 @@ Every solution includes:
 
 | Difficulty | Solved | Total |
 |---|---|---|
-| 🟢 Easy | XX | 20 |
-| 🟡 Medium | XX | 22 |
-| 🔴 Hard | XX | 8 |
-| **Total** | **XX** | **50** |
+| 🟢 Easy | 06 | 20 |
+| 🟡 Medium | 00 | 22 |
+| 🔴 Hard | 00 | 8 |
+| **Total** | **06** | **50** |
 
 > Update these numbers as you go — or swap in a live stats card like [leetcode-stats-card](https://github.com/Amanrathi-Git/SQL_50_Leetcode/tree/main):
 > `![LeetCode Stats](https://leetcode.com/u/aman_rathi_2310/)
