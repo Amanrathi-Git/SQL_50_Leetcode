@@ -35,7 +35,7 @@ Every solution includes:
 | **Total** | **XX** | **50** |
 
 > Update these numbers as you go — or swap in a live stats card like [leetcode-stats-card](https://github.com/JacobLinCool/LeetCode-Stats-Card):
-> `![LeetCode Stats](https://leetcode-stats-card.vercel.app/YOUR_LEETCODE_USERNAME)`
+> `![LeetCode Stats](https://leetcode-stats-card.vercel.app/aman_rathi2310)`
 
 ---
 
@@ -124,6 +124,5 @@ Built while preparing for Data/Business Analyst interviews — SQL is consistent
 
 ## 📫 Connect
 
-- LeetCode: [your-profile](https://leetcode.com/YOUR_USERNAME/)
-- LinkedIn: [your-profile](https://linkedin.com/in/YOUR_USERNAME)
-this is it now where and what to add to get automation and replace my username also where needed and update it
+- LeetCode: [your-profile](https://leetcode.com/u/aman_rathi_2310/)
+
