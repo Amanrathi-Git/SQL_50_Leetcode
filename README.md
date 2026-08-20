@@ -34,7 +34,7 @@ Every solution includes:
 | 🔴 Hard | XX | 8 |
 | **Total** | **XX** | **50** |
 
-> Update these numbers as you go — or swap in a live stats card like [leetcode-stats-card](https://github.com/JacobLinCool/LeetCode-Stats-Card):
+> Update these numbers as you go — or swap in a live stats card like [leetcode-stats-card](https://github.com/Amanrathi-Git/SQL_50_Leetcode/tree/main):
 > `![LeetCode Stats](https://leetcode.com/u/aman_rathi_2310/)
 
 ---
