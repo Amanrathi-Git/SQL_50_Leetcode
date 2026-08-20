@@ -35,7 +35,7 @@ Every solution includes:
 | **Total** | **XX** | **50** |
 
 > Update these numbers as you go — or swap in a live stats card like [leetcode-stats-card](https://github.com/JacobLinCool/LeetCode-Stats-Card):
-> `![LeetCode Stats](https://leetcode-stats-card.vercel.app/aman_rathi2310)`
+> `![LeetCode Stats](https://leetcode.com/u/aman_rathi_2310/)
 
 ---
 
